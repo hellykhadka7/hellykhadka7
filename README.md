@@ -1,82 +1,103 @@
-<!-- Header / Intro -->
-<h1 align="center">👋 Hi, I’m Gaurab Khadka</h1>
+<h1 align="center">Gaurab Khadka</h1>
 <p align="center">
-  <em>Web Developer | Open to Opportunities | Building useful apps & tools</em>
+Web Developer • AI & Data Enthusiast • Problem Solver
 </p>
 
-<!-- Optional: GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellykhadka7&show_icons=true&theme=dark" alt="Gaurab's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellykhadka7&layout=compact&theme=dark" alt="Top Languages" />
+Building real-world applications with clean UI, scalable logic, and practical AI.
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hellykhadka7&show_icons=true&hide_title=true&theme=transparent" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellykhadka7&layout=compact&theme=transparent" height="160"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## Profile
 
-I’m a passionate **Web Developer** and coder focused on building responsive, real-world applications. I enjoy solving problems, learning new technologies, and contributing to open-source. I specialize in **HTML, CSS, JavaScript, Python and TypeScript** — and I’m always looking for ways to improve my skills and contribute to impactful projects.:contentReference[oaicite:1]{index=1}
+I am a developer focused on creating modern web interfaces, backend systems, and applied AI solutions. My work ranges from frontend UI clones and dashboards to backend services, data analytics pipelines, and machine learning projects.
 
----
-
-### 🚀 What I’m Doing
-
-- 🔭 Building modern web applications and UI clones  
-- 💼 Open to internships / freelance / collaboration opportunities  
-- 📫 Reach me through LinkedIn or Email  
-- ⚡ Currently improving skills in **React**, **Node.js**, **Machine Learning** and **AI integration**
+I value clean code, practical architecture, and continuous improvement. My goal is to work on meaningful products that solve real problems while growing as a full-stack engineer.
 
 ---
 
-### 💼 Core Skills
+## Technical Skills
 
-**Languages:** `HTML` • `CSS` • `JavaScript` • `TypeScript` • `Python`  
-**Frameworks & Tools:** `React` • `Node.js` • `Express` • `Bootstrap` • `VS Code` • `Git & GitHub`  
-**Databases & Others:** `SQLite` • `ETL & Analytics` • `Machine Learning` • `NLP` • `APIs`
+**Frontend**
+- HTML, CSS, JavaScript, TypeScript  
+- Responsive Design, UI Cloning, Dashboards
 
----
+**Backend**
+- Node.js, Express  
+- REST APIs, Authentication, CRUD Systems
 
-### 🧠 Featured Projects
+**Data & AI**
+- Python  
+- Data Analytics & ETL  
+- Machine Learning & NLP  
+- Model Integration in Applications
 
-Here are some noteworthy projects that showcase my skills and growth as a developer:
-
-**Portfolio & UI Projects**
-- 💼 **Portfolio** – A personal portfolio website to showcase my work and skills  
-  👉 https://github.com/hellykhadka7/portfolio  
-- 🎧 **Spotify UI Clone** – Frontend clone of Spotify’s UI using HTML/CSS  
-  👉 https://github.com/hellykhadka7/spotify-ui-clone  
-- 🧠 **Dashboard** – A type-rich responsive dashboard using TypeScript/JS  
-  👉 https://github.com/hellykhadka7/dashboard  
-- 🏢 **Digital Agency Web** – Liquid Glass digital agency site  
-  👉 https://github.com/hellykhadka7/v0-liquid-glass-digital-agency-web  
-
-**Backend & Full-Stack**
-- 🔧 **backend_final** – Backend work connecting logic and database components  
-  👉 https://github.com/hellykhadka7/backend_final  
-- 🤖 **Sign-Speak-AI / Realtime** – AI/ML powered projects (speech/sign recognition)  
-  👉 https://github.com/hellykhadka7/sign-speak-ai  
-  👉 https://github.com/hellykhadka7/signspeak-realtime  
-
-**Data & Python**
-- 📊 **Excel Dashboard Data Analytics** – ETL and reporting in Excel  
-  👉 https://github.com/hellykhadka7/excel-dashboard-data-analytics  
-- 🔐 **Python Keylogger** – Educational keylogger script  
-  👉 https://github.com/hellykhadka7/python-keylogger  
-- 🧠 **Sentiment Analysis (Deep Learning)** – NLP model classification  
-  👉 https://github.com/hellykhadka7/sentiment-analysis-deep-learning  
-- 🗃️ **Simple CRM (SQLite)** – Basic CRM system using SQLite  
-  👉 https://github.com/hellykhadka7/simple-crm-sqlite
+**Databases & Tools**
+- SQLite  
+- Git & GitHub  
+- VS Code
 
 ---
 
-### 📫 Connect With Me
+## Selected Projects
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### Frontend & UI Engineering
+- Spotify-style music interface clone with responsive layout  
+- Personal developer portfolio website  
+- Admin dashboard with TypeScript and dynamic components  
+- Digital agency landing platform with modern design system
+
+### Backend & Full-Stack Systems
+- Modular backend service with API integration  
+- CRM system using SQLite for customer and task management  
+- Authentication-ready server architecture
+
+### Data Analytics & Machine Learning
+- Excel-based data analytics dashboard with ETL workflow  
+- Deep learning sentiment analysis system  
+- AI-based sign language and speech processing projects  
+- Educational cybersecurity tooling in Python
+
+Each project focuses on practical implementation, structured code, and real-world use cases.
+
+---
+
+## What I’m Working On
+
+- Strengthening full-stack development skills  
+- Improving backend architecture design  
+- Applying AI models to production-style applications  
+- Building more scalable and polished web products
+
+---
+
+## Professional Interests
+
+- Full-Stack Development  
+- Frontend Engineering  
+- Applied Artificial Intelligence  
+- Software Architecture  
+- Product-focused Development
+
+---
+
+## Contact
+
+If you'd like to collaborate, discuss projects, or explore opportunities, feel free to connect.
+
+- LinkedIn: (add your profile)
+- Email: (add your email)
+
+---
 
 <p align="center">
-  <em>Thanks for visiting my profile! 🚀</em>
+<i>“Consistency builds skill. Skill builds confidence. Confidence builds impact.”</i>
 </p>
