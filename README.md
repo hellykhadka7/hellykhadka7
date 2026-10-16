@@ -13,7 +13,7 @@ I focus on writing simple, maintainable code and continuously improving my full-
 ---
 
 ### 🧠 Skills
-Frontend: HTML, CSS, JavaScript, TypeScript  
+Frontend: HTML, CSS, JavaScript, TypeScript, React
 Backend: Node.js, Express  
 AI & Data: Python, Machine Learning, NLP, Data Analytics  
 Tools: SQLite, Git, GitHub, VS Code
